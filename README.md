@@ -5,13 +5,12 @@
 - ⚡ Fun fact: ...once a developer always a developer.
 
 <!--- hello--->
-# namrata
 <h1 align="center">Hi 👋, I'm namrata</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!--- GSOC badge--->
 <details>	
-  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+  <summary align="center"><b>GSSOC(24) Badges 🪶</b></summary><br>
   <div align="center" style="display:flex; align-items:center; gap: 10px;">
     <a href="https://gssoc.girlscript.tech/leaderboard">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
