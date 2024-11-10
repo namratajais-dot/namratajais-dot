@@ -16,6 +16,8 @@
 - 🌱 I’m currently learning **react**
 
 <h3 align="left">Connect with me:</h3>
+#linkin~ https://www.linkedin.com/in/namrata-jaiswal-a543b1313
+#ig~ namratajaiswal_16
 <p align="left">
 </p>
 
