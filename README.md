@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/banner.svg" alt="Namrata Jaiswal - Full-Stack Developer, Motion Lover" width="100%" />
+  <!-- <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/banner.svg" alt="Namrata Jaiswal - Full-Stack Developer, Motion Lover" width="100%" /> -->
 </div>
 
 <div align="center">
