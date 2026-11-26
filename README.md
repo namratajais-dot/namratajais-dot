@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🎬 About Me
+##  About Me
 
 I'm a full-stack developer from India. I like building the whole thing, from the database and the API to the last hover effect on the button.
 
