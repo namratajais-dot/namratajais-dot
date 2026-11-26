@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/assets/banner.svg" alt="Namrata Jaiswal - Shopify Developer, Motion Lover" width="100%" />
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/assets/banner" alt="Namrata Jaiswal - Shopify Developer, Motion Lover" width="100%" />
 </div>
 
 <!-- Typing taglines -->
@@ -45,7 +45,7 @@ I turn static pages into experiences with smooth transitions, scroll magic and m
 ## 🛠️ Tech Stack I Work With
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/assets/skills-marquee.svg" alt="Animated skills marquee" width="100%" />
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/assets/skills-marquee" alt="Animated skills marquee" width="100%" />
 </div>
 
 <br/>
