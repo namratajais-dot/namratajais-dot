@@ -92,7 +92,7 @@ I turn static pages into experiences with smooth transitions, scroll magic and m
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/workflows/snake.yml." alt="snake animation" />
 </div>
 
 <br/>
