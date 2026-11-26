@@ -44,7 +44,7 @@ If you have a project that needs someone who cares about how it feels as well as
 ## 🛠️ Tech Stack I Work With
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main//skills-marquee.svg" alt="Animated skills marquee" width="100%" />
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/skills-marquee.svg" alt="Animated skills marquee" width="100%" />
 </div>
 
 <br/>
