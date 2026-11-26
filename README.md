@@ -35,7 +35,7 @@ If you have a project that needs someone who cares about how it feels as well as
 
 | 🎬 | 🛍️ | 🌊 | 💫 |
 |:--:|:--:|:--:|:--:|
-| **Moving<br/>Websites** | **Full-Stack developer<br/>Storytelling** | **Smooth<br/>Interactions** | **Pixel<br/>Choreography** |
+| **Moving<br/>Websites** | **Full-Stack<br/>developer** | **Smooth<br/>Interactions** | **Pixel<br/>Choreography** |
 
 </div>
 
