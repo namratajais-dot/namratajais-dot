@@ -1,51 +1,122 @@
-- 👋 Hi, I’m @namratajais-dot
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on amazing projects
-- ⚡ Fun fact: ...once a developer always a developer.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/assets/banner.svg" alt="Namrata Jaiswal - Shopify Developer, Motion Lover" width="100%" />
+</div>
 
-<!--- hello--->
-<h1 align="center">Hi 👋, I'm namrata</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Typing taglines -->
+<div align="center">
+  <a href="https://github.com/namratajais-dot">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=640&height=50&lines=Building+Moving+Websites+%F0%9F%8E%AC;Pixels+In+Motion+%E2%9C%A8;Shopify%2C+But+Alive+%F0%9F%9B%8D%EF%B8%8F;Code+That+Dances+%F0%9F%92%83;Smooth+Scroll+Addict+%F0%9F%8C%8A;Making+Interfaces+Breathe+%F0%9F%AB%A7" alt="Typing taglines" />
+  </a>
+</div>
 
-<!--- GSOC badge--->
-<details>	
-  <summary align="center"><b>GSSOC(24) Badges 🪶</b></summary><br>
-  <div align="center" style="display:flex; align-items:center; gap: 10px;">
-    <a href="https://gssoc.girlscript.tech/leaderboard">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
-    </a>
-  </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=namratajais-dot&label=Profile%20views&color=f72585&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/GSSOC'24-Contributor-ffb703?style=for-the-badge" alt="GSSOC24" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-06d6a0?style=for-the-badge" alt="open to collaborate" />
+</div>
+
+<br/>
+
+## 🎬 About Me
+
+I'm a **frontend developer from India** who works on **Shopify** and believes a website should *feel* alive, not just look good.
+I turn static pages into experiences with smooth transitions, scroll magic and micro-interactions.
+
+- 🛍️ Currently working on **Shopify** stores and custom theme development
+- 🎞️ Obsessed with **animation**: scroll effects, hover magic, page transitions
+- 🌐 Building with **JavaScript, Liquid, HTML & CSS** and the **MERN** stack
+- 💞 Looking to **collaborate on amazing projects**
+- ⚡ Fun fact: *once a developer, always a developer*
+
+<br/>
+
+## ✨ What Defines Me
+
+<div align="center">
+
+| 🎬 | 🛍️ | 🌊 | 💫 |
+|:--:|:--:|:--:|:--:|
+| **Moving<br/>Websites** | **Shopify<br/>Storytelling** | **Smooth<br/>Interactions** | **Pixel<br/>Choreography** |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack I Work With
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/main/assets/skills-marquee.svg" alt="Animated skills marquee" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**🛍️ E-commerce**
+
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Liquid-0E1116?style=for-the-badge&logo=liquid&logoColor=white" />
+
+**🎞️ Animation**
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS%20Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**💻 Core**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,c,cpp&theme=dark" />
+
+**🧰 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=namratajais-dot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratajais-dot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=namratajais-dot&theme=radical&hide_border=true&background=0d1117" alt="streak" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/namratajais-dot/namratajais-dot/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/namrata-jaiswal-a543b1313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/namratajaiswal_16"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:namratajaiswal.716@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br/>
+
+<details>
+<summary>🏅 GSSOC'24 Badges</summary>
+<br/>
+
+<!-- Paste your GSSOC badge images here -->
+
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namratajais-dot&label=Profile%20views&color=0e75b6&style=flat" alt="namratajais-dot" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=4CC9F0&center=true&vCenter=true&width=500&lines=%22Static+is+boring.+Make+it+move.%22" alt="quote" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namratajais-dot" alt="namratajais-dot" /></a> </p>
-
-- 🌱 I’m currently learning **react**
-
-<h3 align="left">Connect with me:</h3>
-#linkin~ https://www.linkedin.com/in/namrata-jaiswal-a543b1313
-#ig~ namratajaiswal_16
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
-
-
-<!---
-namratajais-dot/namratajais-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:7209b7,100:4361ee&height=110&section=footer" width="100%" alt="footer" />
