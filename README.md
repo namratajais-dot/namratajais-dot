@@ -19,14 +19,13 @@
 
 ## 🎬 About Me
 
-I'm a **frontend developer from India** who works on **Shopify** and believes a website should *feel* alive, not just look good.
-I turn static pages into experiences with smooth transitions, scroll magic and micro-interactions.
+I'm a full-stack developer from India. I like building the whole thing, from the database and the API to the last hover effect on the button.
 
-- 🛍️ Currently working on **Shopify** stores and custom theme development
-- 🎞️ Obsessed with **animation**: scroll effects, hover magic, page transitions
-- 🌐 Building with **JavaScript, Liquid, HTML & CSS** and the **MERN** stack
-- 💞 Looking to **collaborate on amazing projects**
-- ⚡ Fun fact: *once a developer, always a developer*
+I work mostly with React, Node and MongoDB, and I've also built on Shopify, so I'm comfortable with Liquid themes too.
+
+What I enjoy most is motion. A page that just loads is fine, but a page that moves with you is the one people remember. That's the part of the job I never get tired of.
+
+If you have a project that needs someone who cares about how it feels as well as how it works, let's talk.
 
 <br/>
 
@@ -36,7 +35,7 @@ I turn static pages into experiences with smooth transitions, scroll magic and m
 
 | 🎬 | 🛍️ | 🌊 | 💫 |
 |:--:|:--:|:--:|:--:|
-| **Moving<br/>Websites** | **Shopify<br/>Storytelling** | **Smooth<br/>Interactions** | **Pixel<br/>Choreography** |
+| **Moving<br/>Websites** | **Full-Stack developer<br/>Storytelling** | **Smooth<br/>Interactions** | **Pixel<br/>Choreography** |
 
 </div>
 
